@@ -1,8 +1,19 @@
-# React + Vite
+# Project Description
+This project is a food basket application where users can select meals, add them to a basket, 
+view the total price, and place an order. It is developed using React and Redux.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Features
+🛒 Displaying a list of meals
+➕ Adding items to the basket
+➖ Removing items from the basket
+💰 Dynamically calculating the total price
+🌐 API integration
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+🛠️ Technologies Used
+React: For building the user interface
+Redux: For state management
+React Router: For page navigation
+CSS/SCSS: For styling
+Axios
