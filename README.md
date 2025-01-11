@@ -11,7 +11,7 @@ view the total price, and place an order. It is developed using React and Redux.
 . 🌐 API integration
 
 
-🛠️ Technologies Used
+## Technologies Used
 . React: For building the user interface
 . Redux: For state management
 . React Router: For page navigation
